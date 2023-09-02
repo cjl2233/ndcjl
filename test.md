@@ -7,7 +7,3 @@ int main()
     cout<<a<<endl;
     return 0;
 }
-
-
-//刘雯  我好想你
-//15620500723
